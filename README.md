@@ -92,6 +92,20 @@ Before jumping into everything else, I think it would be valuable to define what
 
 While it being entirely subjective, almost all of the freelancers that I know have a limited liability company. I've tried including information for both types in this guide where possible, but the extensiveness of the information shared will likely be biased towards limited liability companies. 
 
+- **Umbrella employeee**. (Swedish: "Egenanställning"). A newer option that has become incredible popular is the option to send your invoice via a so called umbrella company which allows you to invoice your client without a registered company. You write the invoice at their portal, the umbrella company "egenanställningsföretaget" sends it to the client, and then acts like a broker who will deduct the employee taxes and fee plus a handling fee and pay out the rest as a "part time employment" salary to the banking account you specify.
+The process is easy, you create an account at their web site (or log in with a Swedish e-legitimation such BankID), enter your personal details create an 'assignment', specify details as start and end date, enter the category (eg web design), the name of those want to hire you, amount of hours contracted and the hourly rate. The umbrell company will then review the assignment comply with their guidelines and the Swedish law. Once approved, you can start working and are also insured for liability such illness, accidents and death occurred at work and personal liability. The umbrella company will be your employer and will make a workplace environment assessment the whole process could take 1-2 days and then you start working. Once ready, you submit the invoice through them, the umbrella company then reviews it and then sends it out to your client. Once client paid the invoice, the money goes to the umbrella company which deduct reports and pays the applicable VAT, social fees and income tax and pays the net to your private account you specified.
+Pros:
+* Minimal paperwork
+* Good for freelances within web design, media, music etc.
+* All accounting and reporting are done by the umbrella company
+* The money that lands on your account is completely yours, you can do what you want with it (unless you pay your meetd)
+* You get an 'income of employment' that gives you the best access to social system as sick pay, parental leave, pension planning etc.
+
+Cons:
+* You can't balance profit between years with so called accrual funds
+* The right to claim unemployment benefits is unclear despite the employment reporting because the style of the employment in some cases are treated as solo traders due to the freedom of working
+* You cant reimburse purchases of equipment needed for work such laptop, smartphone or other expensive gear and thus cant exempt VAT of the purchase of a new MacBook Pro. However, some inventory needed for the actual work such special costs for international calls can in some cases be remimbursed by the umbrella company. If they do so they will retain the ownership of it.
+* High te
 
 
 ## Comparison: How does freelancing compare with being an employee in Sweden?
