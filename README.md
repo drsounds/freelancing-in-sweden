@@ -100,13 +100,23 @@ Pros:
 * All accounting and reporting are done by the umbrella company
 * The money that lands on your account is completely yours, you can do what you want with it (unless you pay your meetd)
 * You get an 'income of employment' that gives you the best access to social system as sick pay, parental leave, pension planning etc.
+* Minimal risk of accumulating tax debts that could make you lose your F-tax and even put you into serious legal trouble or even criminal charge caused by differences in prelimnary and final taxea and accumulated VAT money.
+* Some umbrella companies offers benefits such exercise card (friskvårdsbidrag) on around 3 000 - 5 000 if you meet certain conditions they set up. Some companies also teamed up and offers perks like discounts on gym memberships, lectures, home gear and other
+* Some umbrellas also offer networking opportunities such assignment marketplaces, co working hubs, events such conferences where you can meet fellows and network and inspirational lectures.
+* A few umbrellas also offers a kind of insurance called 'guaranteed wage' for the hours of signed assignments should it be canceled due to unforseenable factors. This can, although much thinner, be a little comfort for the loss of opportunity to get unemployment benefits.
 
 Cons:
-* You can't balance profit between years with so called accrual funds
-* The right to claim unemployment benefits is unclear despite the employment reporting because the style of the employment in some cases are treated as solo traders due to the freedom of working
-* You cant reimburse purchases of equipment needed for work such laptop, smartphone or other expensive gear and thus cant exempt VAT of the purchase of a new MacBook Pro. However, some inventory needed for the actual work such special costs for international calls can in some cases be remimbursed by the umbrella company. If they do so they will retain the ownership of it.
-* High te
-
+* You can't balance gross profit between years with the so called accrual funds, however this means you also dont risk going into the trap of accrued deferred tax.
+* The right to claim unemployment benefits is unclear despite the employment reporting because the style of the employment in some cases are treated as solo traders due to the freedom of working depending on factors that make your work style imitate a solo trader like:
+- Flexible working hours
+- If you own the equipment used for the work such laptop
+- If you work remotely insteas on-site
+- If the work has been a result of a large financial risk (such huge financial investments in licenses, expensive gear, separate rents for special workplace etc.)
+* You cant reimburse purchases of equipment and get VAT refund for gear needed for work such laptop, smartphone or other expensive gear and thus cant exempt VAT of the purchase of a new MacBook Pro. However, some inventory needed for the actual work such special costs for international calls can in some cases be remimbursed by the umbrella company. If they do so they will retain the ownership of it.
+* High taxes - The employer feees is a big higher for employees than the self fees (egenavgifterna) above the communal (or state tax).
+* The umbrella company has the right to decline to take on certain kind of commitments that could inquire high legal, financial, safety, security risks where risk of accidents are large or could harm the umbrella company's reputation.
+* You probably need to have a pretty high compensation level to compensate for the umbrella company's comission fees for administration, tax reporting but at the same time you can take on more paid hours as you dont need the time of administration that a sole propriertorship means
+* You cant take advantage of the annual 4 000 kronor (about ~2100 kr tax reduction) expense of working from home as a solo trader in a rental property (although this requires minium 800 work hours per yar)
 
 ## Comparison: How does freelancing compare with being an employee in Sweden?
 
